@@ -1,4 +1,5 @@
 # Study-Git-2020
+<<<<<<< HEAD
 # 新建一个本地分支
 # git checkout -b name
 # 查看一下现在的分支状态:
@@ -15,3 +16,6 @@
 # $ git push origin :name
 # 也可以使用：
 # $ git push origin --delete name
+=======
+水水水水水
+>>>>>>> a67e3254bd13193d282a3ae0a1214d011b39e006
